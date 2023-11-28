@@ -12,3 +12,6 @@ This repository is a treasure trove of programs scripted in Python, C, and Shell
 
 Embark on your Python journey. Learn the art of output formatting and string manipulation.
 
+## 2. 0x01-python-if_else_loops_functions
+
+Loops and flow control using if...else. Intro of basic functions.
