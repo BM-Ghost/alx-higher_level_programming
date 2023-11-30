@@ -15,3 +15,7 @@ Embark on your Python journey. Learn the art of output formatting and string man
 ## 2. 0x01-python-if_else_loops_functions
 
 Loops and flow control using if...else. Intro of basic functions.
+
+## 3. 0x02. Python - import & modules
+
+Python modules enhance code reusability. This project explains how modules are created and used to write python scripts.
