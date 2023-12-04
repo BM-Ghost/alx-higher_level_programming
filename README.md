@@ -19,3 +19,8 @@ Loops and flow control using if...else. Intro of basic functions.
 ## 3. 0x02. Python - import & modules
 
 Python modules enhance code reusability. This project explains how modules are created and used to write python scripts.
+
+## 4. 0x03-python-data_structures
+
+Delve into Python's Data Structures: Lists and Tuples. Explore functions and operations on these fundamental data structures.
+
