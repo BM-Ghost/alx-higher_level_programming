@@ -1,10 +1,6 @@
 # Python - More Data Structures: Set, Dictionary
 
-In this project, I explored sets and dictionaries in Python. I practiced their usage alongside methods like `lambda`, `map`, `filter`, and `reduce`.
-
-## Tests :heavy_check_mark:
-
-* [**tests**](./tests): Folder containing test files provided by Holberton School.
+In this project, I explored sets and dictionaries in Python. I practiced their usage alongside methods like `lambda`, `map`, `filter`, and `reduce`
 
 ## Function Prototypes :floppy_disk:
 
