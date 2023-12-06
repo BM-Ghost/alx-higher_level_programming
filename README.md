@@ -24,3 +24,7 @@ Python modules enhance code reusability. This project explains how modules are c
 
 Delve into Python's Data Structures: Lists and Tuples. Explore functions and operations on these fundamental data structures.
 
+### 5. 0x04-python-more_data_structures
+
+Learn about Python's Set and Dictionary data structures. Practice utilizing them with methods like `lambda`, `map`, `filter`, and `reduce`.
+
