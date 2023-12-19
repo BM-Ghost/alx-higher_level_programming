@@ -28,3 +28,11 @@ Delve into Python's Data Structures: Lists and Tuples. Explore functions and ope
 
 Learn about Python's Set and Dictionary data structures. Practice utilizing them with methods like `lambda`, `map`, `filter`, and `reduce`.
 
+### 6. 0x05-python-exceptions
+
+Master the art of handling exceptions in Python. Explore scenarios involving error management, debugging, and graceful handling of unexpected situations.
+
+### 7. 0x06-python-classes_and_objects
+
+Enter the world of Object-Oriented Programming (OOP) in Python. Understand classes, objects, attributes, and methods, gradually building your proficiency in creating and manipulating objects.
+
