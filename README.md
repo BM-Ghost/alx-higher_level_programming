@@ -36,8 +36,13 @@ Master the art of handling exceptions in Python. Explore scenarios involving err
 
 Enter the world of Object-Oriented Programming (OOP) in Python. Understand classes, objects, attributes, and methods, gradually building your proficiency in creating and manipulating objects.
 
-### 0x08-python-more_classes Python - More Classes and Objects
+### 8. 0x08-python-more_classes
 
 This repository contains Python scripts that implement various functionalities involving classes and objects, specifically focusing on the manipulation of rectangles and the N queens puzzle.
+
+### 9. 0x09-python-everything_is_object
+
+Discover the essence of object-oriented programming in Python through a series of tests and tasks. Explore the fundamental concepts of object types, memory management, identity, and equality in Python objects. Dive into examinations of integers, strings, lists, tuples, and their behavior as objects in the Python ecosystem.
+
 
 
