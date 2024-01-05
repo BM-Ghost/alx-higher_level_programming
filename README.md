@@ -36,11 +36,14 @@ Master the art of handling exceptions in Python. Explore scenarios involving err
 
 Enter the world of Object-Oriented Programming (OOP) in Python. Understand classes, objects, attributes, and methods, gradually building your proficiency in creating and manipulating objects.
 
-### 8. 0x08-python-more_classes
+### 8. 0x07-python-test_driven_development
+The repository delves into Test-Driven Development in Python, showcasing the integration of docstrings and unittest. It houses multiple tests covering functions like integer addition, matrix division, name formatting, square printing, text indentation, matrix multiplication, and lazy matrix multiplication. Each task comprises a Python script with detailed function prototypes, elaborating on functionalities, error handling, and the expected behaviors for various inputs. Additionally, a C function, `102-python.c`, provides insights into Python string objects, contributing to a comprehensive understanding of Python's underlying concepts and functionalities.
+
+### 9. 0x08-python-more_classes
 
 This repository contains Python scripts that implement various functionalities involving classes and objects, specifically focusing on the manipulation of rectangles and the N queens puzzle.
 
-### 9. 0x09-python-everything_is_object
+### 10. 0x09-python-everything_is_object
 
 Discover the essence of object-oriented programming in Python through a series of tests and tasks. Explore the fundamental concepts of object types, memory management, identity, and equality in Python objects. Dive into examinations of integers, strings, lists, tuples, and their behavior as objects in the Python ecosystem.
 
