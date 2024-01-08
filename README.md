@@ -47,5 +47,9 @@ This repository contains Python scripts that implement various functionalities i
 
 Discover the essence of object-oriented programming in Python through a series of tests and tasks. Explore the fundamental concepts of object types, memory management, identity, and equality in Python objects. Dive into examinations of integers, strings, lists, tuples, and their behavior as objects in the Python ecosystem.
 
+### 11. 0x0A-python-inheritance
+
+This repository explores Python's inheritance paradigms, demonstrating various aspects like instance checking, subclass identification, and class extension through practical implementations and test cases. It showcases fundamental concepts, including class inheritance, method overriding, and attribute validation, emphasizing their application in building flexible and extensible Python programs.
+
 
 
