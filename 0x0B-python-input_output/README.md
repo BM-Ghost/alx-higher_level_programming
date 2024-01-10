@@ -1,7 +1,4 @@
-## Content Overview
-
-### Tests ✔️
-* [tests](./tests): A folder containing various test files.
+## Description
 
 ### Function Prototypes 💾
 Here are the prototypes for functions written in this repository:
