@@ -51,5 +51,8 @@ Discover the essence of object-oriented programming in Python through a series o
 
 This repository explores Python's inheritance paradigms, demonstrating various aspects like instance checking, subclass identification, and class extension through practical implementations and test cases. It showcases fundamental concepts, including class inheritance, method overriding, and attribute validation, emphasizing their application in building flexible and extensible Python programs.
 
+### 12. 0x0B-python-input_output
+
+This repository centers on exploring Python's Input/Output mechanisms, particularly diving into the practical implementation of built-in functions like `with`, `open`, and `read`, complemented by the `json` module. These functionalities equip users to read, write, serialize, and deserialize files and objects efficiently using JSON in Python.
 
 
