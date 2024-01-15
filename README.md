@@ -55,4 +55,8 @@ This repository explores Python's inheritance paradigms, demonstrating various a
 
 This repository centers on exploring Python's Input/Output mechanisms, particularly diving into the practical implementation of built-in functions like `with`, `open`, and `read`, complemented by the `json` module. These functionalities equip users to read, write, serialize, and deserialize files and objects efficiently using JSON in Python.
 
+### 13. 0x0C-python-almost_a_circle
+
+This repo, serves as a comprehensive exploration of Python, delving into a variety of essential topics such as import, exceptions, private attributes, getter/setter, class/static methods, inheritance, file I/O, `args`/`kwargs`, JSON and CSV serialization/deserialization, and unittesting. With an array of tests included, the project introduces key classes, including Base, Rectangle, and Square, providing a robust foundation for object-oriented programming in Python. Explore the intricacies of Python programming, enhance your skills, and deepen your understanding through this engaging and detailed project.
+
 
