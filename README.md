@@ -63,4 +63,8 @@ This repo, serves as a comprehensive exploration of Python, delving into a varie
 
 This is an introduction to relational databases and instructions for using various MySQL scripts to perform tasks such as listing databases, creating and deleting databases and tables, inserting data, querying data, updating records, and performing calculations like averages and counts. Additionally, it includes tasks related to temperature data analysis. Each task is accompanied by a description and a link to the corresponding MySQL script.
 
+### 15. 0x0E-SQL_more_queries
+
+This are advanced SQL queries focusing on permissions, joins, and constraints. It includes tasks such as listing user privileges, creating users with specific privileges, creating tables with constraints like non-null fields and unique IDs, and querying data using various join operations. The tasks also involve working with multiple tables to retrieve specific information, such as listing cities by states or shows by genres. Additionally, there are tasks related to analyzing TV show data, such as listing shows without genres or sorting shows by ratings. Each task is accompanied by a description and a link to the corresponding MySQL script.
+
 
