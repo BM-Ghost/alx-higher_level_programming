@@ -59,4 +59,8 @@ This repository centers on exploring Python's Input/Output mechanisms, particula
 
 This repo, serves as a comprehensive exploration of Python, delving into a variety of essential topics such as import, exceptions, private attributes, getter/setter, class/static methods, inheritance, file I/O, `args`/`kwargs`, JSON and CSV serialization/deserialization, and unittesting. With an array of tests included, the project introduces key classes, including Base, Rectangle, and Square, providing a robust foundation for object-oriented programming in Python. Explore the intricacies of Python programming, enhance your skills, and deepen your understanding through this engaging and detailed project.
 
+### 14. 0x0D-SQL_introduction
+
+This is an introduction to relational databases and instructions for using various MySQL scripts to perform tasks such as listing databases, creating and deleting databases and tables, inserting data, querying data, updating records, and performing calculations like averages and counts. Additionally, it includes tasks related to temperature data analysis. Each task is accompanied by a description and a link to the corresponding MySQL script.
+
 
