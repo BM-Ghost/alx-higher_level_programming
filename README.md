@@ -67,4 +67,8 @@ This is an introduction to relational databases and instructions for using vario
 
 This are advanced SQL queries focusing on permissions, joins, and constraints. It includes tasks such as listing user privileges, creating users with specific privileges, creating tables with constraints like non-null fields and unique IDs, and querying data using various join operations. The tasks also involve working with multiple tables to retrieve specific information, such as listing cities by states or shows by genres. Additionally, there are tasks related to analyzing TV show data, such as listing shows without genres or sorting shows by ratings. Each task is accompanied by a description and a link to the corresponding MySQL script.
 
+### 16. 0x0F-python-object_relational_mapping
+
+This comprises Python scripts employing `MySQLdb` and `sqlalchemy` to interact with a MySQL database, performing CRUD operations and demonstrating SQL injection prevention techniques. Additionally, it includes modules defining SQLAlchemy classes for mapping database tables, establishing relationships between tables, and executing queries using SQLAlchemy ORM. Tests and tasks cover a range of operations from basic state retrieval to complex data manipulation and relationship management within the database.
+
 
