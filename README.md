@@ -75,4 +75,7 @@ This comprises Python scripts employing `MySQLdb` and `sqlalchemy` to interact w
 
 This project focuses on utilizing `curl` commands within Bash scripts to interact with HTTP servers. Each task addresses a specific aspect of HTTP communication, ranging from retrieving response data to sending various types of requests. For instance, tasks like determining the size of response bodies, retrieving response bodies based on status codes, and discovering supported HTTP methods showcase different functionalities of the `curl` command. Additionally, the scripts demonstrate how to handle custom headers, send POST requests with specific parameters, and even interact with JSON data. Moreover, a Python script is included to find a peak in an unsorted list of integers, emphasizing algorithmic problem-solving skills. Lastly, one task involves sending a request to a specific endpoint, triggering a response from the server containing a predefined message. Overall, these tasks provide comprehensive practice in utilizing `curl` commands and handling various aspects of HTTP communication within Bash scripts.
 
+### 18. 0x11-python-network_1
+
+This repository contains Python scripts utilizing `urllib` and `requests` libraries to handle HTTP requests, interact with URLs and APIs like GitHub, perform tasks such as status checks, response header extraction, email sending via POST, error code handling, API searching, GitHub authentication, and retrieving recent GitHub repository comments.
 
